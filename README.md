@@ -1,7 +1,7 @@
-# CarMart 
+## CarMart 
 Welcome to CarMart, the go-to platform for car enthusiasts and buyers seeking a seamless and enjoyable car shopping experience. This GitHub repository contains the source code and documentation for our website, where an extensive collection of high-quality cars is made available for purchase.
 
-Features
+# Features
 1. User-Friendly Interface
 Our website boasts an intuitive and visually appealing interface designed to enhance the user experience. From browsing various car models to comparing specifications, CarMart ensures a smooth and enjoyable navigation for all users.
 
